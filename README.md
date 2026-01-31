@@ -81,12 +81,6 @@ With **MCA**, we now analyse the joint structure of:
   - The “standard” segment (`low`, `small`, `no`, `medium`) lies close to the “floor” of the space,
     while premium categories “lift off” into different directions.
 
-Example 3D perceptual map:
-
-![3D MCA Map](./outputs/mca_3d_perceptual_map.png)
-
-(You can also generate a rotating GIF to use in presentations or posts.)
-
 ---
 
 ## 🧪 Methods & Libraries
